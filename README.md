@@ -8,10 +8,12 @@
 
 # Hello!
 
-### I'm Jonathan, but I find that name to be too long, so you can just call me JC.
+### I'm Jonathan, but you can call me JC.
 
 ## 🌱 About me
-Currently studying Computer Science and Software Engineering at the University of Otago. My interests besides programming include Cardistry, Fencing and Japanese. 🃏🤺🍜
+Currently studying Computer Science and Software Engineering at the University of Otago. 
+My interests besides programming include Cardistry, Fencing and Japanese. 
+🃏🤺🍜
 
 ## 🌟 My Ambitions
 Reviving Open Source: I'm driven to breathe new life into invaluable but outdated open-source tools and applications. By revitalizing these projects, I aim to sustain and enhance tools that myself and others find essential, ensuring they remain relevant and useful in the ever-evolving tech landscape.
