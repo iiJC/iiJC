@@ -13,7 +13,7 @@
 ## 🌱 About me
 Currently studying Computer Science and Software Engineering at the University of Otago. My interests besides programming include Cardistry, Fencing and Japanese. 🃏🤺🍜
 
-🌟 My Ambitions
+## 🌟 My Ambitions
 Reviving Open Source: I'm driven to breathe new life into invaluable but outdated open-source tools and applications. By revitalizing these projects, I aim to sustain and enhance tools that myself and others find essential, ensuring they remain relevant and useful in the ever-evolving tech landscape.
 
 Impactful App Development: My goal is to go beyond showcasing my development skills through personal projects; I aspire to create mobile and web applications that genuinely benefit society. By deploying impactful apps, I intend to address real-world needs, making a positive difference in the community and demonstrating how technology can be a force for good.
