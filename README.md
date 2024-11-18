@@ -25,6 +25,7 @@ Impactful App Development: My goal is to go beyond showcasing my development ski
 Continuous Learning and Certification: Staying at the forefront of technological innovation is key to achieving my goals. I plan to continuously update my skill set and knowledge base by pursuing advanced certifications in new and emerging technologies. This commitment to learning ensures that I can apply the most current and effective techniques to my projects, keeping them relevant and impactful.
 -->
 
+<!--
 ## 🧑‍💻 Skills
 
 <!-- You can find a bunch of badges here https://github.com/Ileriayo/markdown-badges#-frameworks-platforms-and-libraries -->
@@ -43,6 +44,7 @@ Continuous Learning and Certification: Staying at the forefront of technological
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 
 <!-- ## 🏆 Side projects -->
 
