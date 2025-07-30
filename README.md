@@ -12,7 +12,8 @@
 
 # Hello! I'm Jonathan, but you can call me JC.
 
-
+My most recent projects will remain closed source until **November 2025** as per academic and legal policies.  
+Feel free to message me if you have any questions!
 
 
 
