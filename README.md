@@ -8,9 +8,9 @@
   See history changes for initial template
 -->
 
-# Hello!
+# ようこそ!　私のソウルソサエティへ
 
-### I'm Jonathan, but you can call me JC.
+# Hello! I'm Jonathan, but you can call me JC.
 
 
 
