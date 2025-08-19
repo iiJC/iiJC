@@ -12,6 +12,8 @@
 
 # Hello! I'm Jonathan, but you can call me JC.
 
+AI Hackathon 2025 Winner.  
+
 My most recent projects will remain closed source until **November 2025** as per academic and legal policies.  
 
 Check out my website [iijc.dev](https://iijc.dev) for my blog, projects and more!  
