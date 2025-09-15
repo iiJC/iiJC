@@ -8,11 +8,9 @@
   See history changes for initial template
 -->
 
-# ようこそ!　私のソウルソサエティへ
-
 # Hello! I'm Jonathan, but you can call me JC.
 
-AI Hackathon 2025 Winner.  
+Dunedin AI Hackathon 2025 Winner with my team @wildingpinesotago. NZ Top 4 Finalist. Presented at the 2025 Aotearoa AI Summit. 
 
 My most recent projects will remain closed source until **November 2025** as per academic and legal policies.  
 
