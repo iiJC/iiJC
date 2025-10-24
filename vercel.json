@@ -1,0 +1,46 @@
+{
+  "redirects": [
+    {
+      "source": "/draft",
+      "destination": "https://draft.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/draft/",
+      "destination": "https://draft.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/bracket",
+      "destination": "https://bracket.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/bracket/",
+      "destination": "https://bracket.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/wordwolf",
+      "destination": "https://wordwolf.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/wordwolf/",
+      "destination": "https://wordwolf.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/cards",
+      "destination": "https://cards.iijc.dev",
+      "permanent": false
+    },
+    {
+      "source": "/cards/",
+      "destination": "https://cards.iijc.dev",
+      "permanent": false
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}

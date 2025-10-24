@@ -1,0 +1,26 @@
+# Git files
+
+.git
+.gitignore
+
+# Documentation
+
+README.md
+LICENSE.txt
+
+# Source files (since these are compiled to CSS)
+
+assets/sass
+
+# Editor files
+
+.vscode
+.idea
+_.swp
+_.swo
+\*~
+
+# OS files
+
+.DS_Store
+Thumbs.db
